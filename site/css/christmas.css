@@ -1,0 +1,62 @@
+body{ 
+margin: 0;
+padding: 0;
+}
+
+.wrapper{
+width: 100vw;
+height: 50px;
+}
+
+/* Mobil */
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: red 
+}
+
+
+
+
+.center{
+    height: 400px;
+    width: 50%;
+    margin: auto; 
+    border: 10px solid white;
+    padding: 10px;  
+    background-image: -moz-element(<img scr="dansande-tomte-med-ljud.jpeg" alt ="Tomtebild">) 
+    text-align: center;
+
+}
+
+div {
+    text-align: center
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+   
+ 
