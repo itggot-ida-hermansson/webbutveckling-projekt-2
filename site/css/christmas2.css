@@ -24,8 +24,10 @@ grid-template-rows: 50px;
 .header {
     height: 20px;
     background-color: gray;
-
-
+    position: fixed; 
+    left: 0;
+    top: 0;
+    width: 100%;
 }
 .footer {
     height: 20px;
